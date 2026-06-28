@@ -28,7 +28,8 @@ def _save_df(df: pd.DataFrame) -> None:
         .replace("nan", "")
         .str.replace(r"\.0$", "", regex=True)
     )
-    out.to_csv(CSV_PATH, index=False)
+    # out.to_csv(CSV_PATH, index=False)
+    out.to_csv(r"D:\DentAgent AI\doctor_availability_new.csv", index=False)
 
 
 @tool
