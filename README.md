@@ -12,6 +12,14 @@ This system provides a chat-based interface for patients and clinic staff to:
 
 The system uses a supervisor agent that intelligently routes user requests to the appropriate specialized agent based on the detected intent, making it an excellent educational example of multi-agent AI systems.
 
+## Architecture
+
+### Multi-Agent Design
+
+The system follows a supervisor pattern where a central coordinator analyzes user messages and routes them to the most appropriate specialized agent:
+<img width="1056" height="1489" alt="DantVaidya flow diagram" src="https://github.com/user-attachments/assets/705b8fa6-a643-4871-b559-14844c7e7894" />
+
+
 
 ### Agent Responsibilities
 
