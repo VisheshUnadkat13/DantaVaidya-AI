@@ -20,6 +20,14 @@ The system follows a supervisor pattern where a central coordinator analyzes use
 <img width="1056" height="1489" alt="DantVaidya flow diagram" src="https://github.com/user-attachments/assets/705b8fa6-a643-4871-b559-14844c7e7894" />
 
 
+## Screenshots
+
+<img width="1791" height="772" alt="Screenshot 2026-06-30 003559" src="https://github.com/user-attachments/assets/e8ef9e0c-8459-4bb9-a99e-2fd0489fc1bc" />
+<img width="1341" height="748" alt="Screenshot 2026-06-30 003618" src="https://github.com/user-attachments/assets/d2b4af46-4e8c-4405-a5eb-1279f0ce786f" />
+<img width="1447" height="661" alt="Screenshot 2026-06-30 003634" src="https://github.com/user-attachments/assets/cf573eda-8208-4904-b09f-0e38cc3066cf" />
+<img width="1362" height="868" alt="Screenshot 2026-06-30 003652" src="https://github.com/user-attachments/assets/6782b3de-43e1-4c86-acf5-a0601732ef43" />
+
+
 
 ### Agent Responsibilities
 
