@@ -186,8 +186,8 @@ Environment variables can be set in `.env`:
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| XAI_API_KEY | Your xAI API key | Required |
-| MODEL_NAME | LLM model to use | grok-4 |
+| GROQ_API_KEY | Your Groq API key | Required |
+| MODEL_NAME | LLM model to use | openai/gpt-oss-120b |
 | TEMPERATURE | LLM creativity (0=deterministic) | 0 |
 
 
